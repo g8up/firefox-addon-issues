@@ -1,0 +1,21 @@
+{
+  "name": "笃笃微博媒体下载器test",
+  "short_name": "笃笃下载器",
+  "version": "0.10.1",
+  "description": "让下载更简单！微博视频一键下载，微博九宫格高清大图一键下载。收藏公开课、纪录片的好帮手，提高你的操作效率。给你一个塞满硬盘的理由！（顺便兼容了抖音、知乎、百度知道）",
+  "devtools_page": "devtools.html",
+  "browser_action": {
+    "default_title": "笃笃微博视频下载器",
+    "default_icon": "asset/logo.png"
+  },
+  "options_ui": {
+    "page": "option.html",
+    "open_in_tab": true
+  },
+  "icons": {
+    "48": "asset/logo.png",
+    "64": "asset/logo.png",
+    "128": "asset/logo.png"
+  },
+  "manifest_version": 2
+}
